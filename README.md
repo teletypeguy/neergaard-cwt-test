@@ -1,2 +1,2 @@
-# neergaard_cwt_test
+# Neergaard CWT Test
 Test of Neergaard CWT
